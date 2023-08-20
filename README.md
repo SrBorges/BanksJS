@@ -5,3 +5,6 @@
 
 Esse programa representa um relacionamento de diversas entidades de um banco indo de gerentes, contas e usuários, esse
 modelo representa o uso de classes e suas formas de relacionar utilizando os paradigmas de polimorfismo, herança e encapsulamento.
+
+O programa tem como contexto um banco onde você consegue visualizar sua conta, adicionar um valor e também caso o gerente tenha 
+acesso, ele também pode ver o suas informações de cadastro. 
